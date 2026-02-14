@@ -1,12 +1,12 @@
-"""Module to demonstrate basic greeting functions."""
+"""Module providing greeting functions."""
 
 def hello():
-    """Prints a friendly greeting."""
+    """Prints a greeting."""
     print("hi")
 
 
 def bye():
-    """Prints a farewell message."""
+    """Prints a farewell."""
     print("bye")
 
 
